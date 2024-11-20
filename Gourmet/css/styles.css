@@ -1,0 +1,74 @@
+#headerwrapper
+{
+    display: flex;
+    border: 1px solid black;
+    min-height: 20vh;
+
+    background-image: url('/Gourmet/img/imgcolor.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#header1
+{
+    order: 1;
+    width: 33.3%;
+    border: solid 1px black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#header2
+{
+    order: 2;
+    width: 33.3%;
+    border: 1px solid black;
+    display: flex;
+}
+
+#header2-1
+{
+    order: 1;
+    width: 33.3%;
+    border: solid 1px black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#header2-2
+{
+    order: 2;
+    width: 33.3%;
+    border: solid 1px black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#header2-3
+{
+    order: 3;
+    width: 33.3%;
+    border: solid 1px black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#header3
+{
+    order: 3;
+    width: 33.3%;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#sectionwrapper
+{
+
+}
